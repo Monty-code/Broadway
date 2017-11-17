@@ -1,0 +1,23 @@
+body{
+  font-family: Helvetica;
+}
+.hero{
+  background-image:url(file://C:/Codeacademy/Projects/Broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
+.btn-nav{
+  font-size: 18px;
+  color: white;
+}
+h1{
+  font-size: 70px;
+}
+.supporting{
+  text-align: center;
+}
+.footer{
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
