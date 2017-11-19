@@ -2,7 +2,7 @@ body{
   font-family: Helvetica;
 }
 .hero{
-  background-image:url(https://github.com/Monty-code/Broadway/blob/master/resources/images/the-flatiron-building.png);
+  background-image:url(../images/the-flatiron-building.png);
   text-align: center;
   color: white;
 }
